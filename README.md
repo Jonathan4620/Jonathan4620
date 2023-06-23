@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Jonathan!</h1>
 
-<!--
-**Jonathan4620/Jonathan4620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>Cybersecurity Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - [Active Directory Home Lab](https://github.com/Jonathan4620)
+
+<h2>Certifications</h2>
+
+  - [Google Cybersecurity Professional Certificate](https://www.coursera.org/)
+
+<h2>YouTube Videos</h2>
+
+- [Tutorial: Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
